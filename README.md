@@ -1,1 +1,1 @@
-# passengercounterv2
+# passengercounterv2  12. Ödevde istenilen şeylerin gerçekleşitrilmesi ve tekrarlanması için yazıldı.
